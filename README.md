@@ -1,6 +1,6 @@
 # Simple string concat example
 
-**Why:** This is to help demonstrate statement corruption
+**Why:** This is to help visualize statement corruption
 (e.g SQLi) which was inspired by this <a href="https://twitter.com/indiecom/status/826191303352283136">tweet.</a>
 
 **Goal**:
