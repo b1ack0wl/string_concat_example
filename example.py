@@ -33,7 +33,7 @@ def main():
 	print "[+] Generating string...\n"
 	time.sleep(1.5) # for effect.
 	# Create String 
-	sentence = "'Hello %s! :D'" %(name)
+	sentence = "'Hello %s! :D'" % str(name)
 	# Print String
 	print sentence
 	print "\n[+] Exiting program...\n"
