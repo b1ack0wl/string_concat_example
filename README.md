@@ -1,7 +1,7 @@
 # Simple string concat example
 
 **Why:** This is to help visualize statement corruption
-(e.g SQLi) which was inspired by this <a href="https://twitter.com/indiecom/status/826191303352283136">tweet.</a>
+(e.g SQLi, XSS, Command Injection...etc) which was inspired by this <a href="https://twitter.com/indiecom/status/826191303352283136">tweet.</a>
 
 **Goal**:
 The goal is to generate two quoted sentences by abusing the name input field.
