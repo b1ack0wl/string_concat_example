@@ -10,4 +10,4 @@ Read the notes within the program file to see what the 'Developer' intended to d
 
 **Usage:** `python example.py`
 
-By: <a href="https://twitter.com/b1ack0wl">b1ack0wl</a>
+<a href="https://twitter.com/b1ack0wl">b1ack0wl</a>
